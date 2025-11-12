@@ -34,7 +34,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,ros,blender,unreal,unity,cuda" /><br/>
-  <img src="https://skillicons.dev/icons?i=linux,git,bash,vscode" />
+  <img src="https://skills.syvixor.com/api/icons?i=cursor,ginux,git,bash,,chatgpt" />
 </p>
 
 **Core Tools & Frameworks:**  
