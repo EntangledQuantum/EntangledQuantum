@@ -52,7 +52,7 @@
 </p>
 
 <div align="center">
-  <h2>◬ ◭ ◮ <b>E N T E R :: T H E :: S I M U L A T I O N</b> ◮ ◭ ◬</h2>
+  <h2>◬ ◭ ◮ 𝙴 ₦ ₮ ₴ Ɽ :: ₮ Ⱨ ₴ :: ₴ ł ₥ Ʉ Ⱡ ₳ ₮ ł Ø ₦ ◮ ◭ ◬</h2>
   <br>
   <h1>
    𝕬𝖘𝖈𝖊𝖓𝖘𝖎𝖔𝖓!
