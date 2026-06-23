@@ -8,7 +8,7 @@
   <circle cx="110" cy="110" r="55" fill="#161B22"/>
 
   <image
-    href="https://github.com/EntangledQuantum/focusspace/blob/master/src/app/icon.png?raw=true"
+    href="https://raw.githubusercontent.com/EntangledQuantum/focusspace/master/src/app/icon.png"
     x="70"
     y="70"
     width="80"
