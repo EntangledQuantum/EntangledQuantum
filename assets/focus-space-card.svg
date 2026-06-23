@@ -1,0 +1,64 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="900" height="220" rx="24" fill="#0D1117"/>
+
+  <rect x="1" y="1" width="898" height="218" rx="24"
+        fill="none" stroke="#30363D"/>
+
+  <circle cx="110" cy="110" r="55" fill="#161B22"/>
+
+  <image
+    href="https://focusspace.live/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon.0d8vv2i6yrb-z.png&w=96&q=75"
+    x="70"
+    y="70"
+    width="80"
+    height="80"
+  />
+
+  <text
+    x="220"
+    y="85"
+    fill="#FFFFFF"
+    font-size="34"
+    font-family="Segoe UI, Arial"
+    font-weight="700">
+    Focus Space
+  </text>
+
+  <text
+    x="220"
+    y="125"
+    fill="#8B949E"
+    font-size="20"
+    font-family="Segoe UI, Arial">
+    Modern productivity and focus platform.(with optional AI features)
+  </text>
+
+  <text
+    x="220"
+    y="155"
+    fill="#8B949E"
+    font-size="20"
+    font-family="Segoe UI, Arial">
+    Transcend the simulation by starving the primitive mind of its limbic noise.
+  </text>
+
+  <rect
+    x="220"
+    y="175"
+    width="220"
+    height="30"
+    rx="15"
+    fill="#21262D"
+  />
+
+  <text
+    x="240"
+    y="195"
+    fill="#58A6FF"
+    font-size="16"
+    font-family="Consolas, monospace">
+    focusspace.live
+  </text>
+
+</svg>
