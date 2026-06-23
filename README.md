@@ -56,13 +56,9 @@
 
 
 
-### Deployed Apps
-<a href="https://focusspace.live/" target="_blank" style="text-decoration:none;">
-  <div align="center">
-
-|  |  |
-|:---:|---|
-| <img src="https://focusspace.live/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon.0d8vv2i6yrb-z.png&w=48&q=75" width="70" style="border-radius:16px;" /> | <div align="left"> <h3>🚀 Focus Space</h3> <p>A modern productivity and focus app built to help you get things done with clarity and flow.</p> <p><code>https://focusspace.live/</code></p> </div> |
-
-  </div>
-</a>
+### Deployed Stuff
+<p align="center">
+  <a href="https://focusspace.live/">
+    <img src="./assets/focus-space-card.svg" width="850">
+  </a>
+</p>
